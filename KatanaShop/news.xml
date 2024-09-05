@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Ronin Blades</title>
+        <link>https://shoomyx.github.io/ronin-blades/index.html</link>
+        <description>Be the first to know about our new deals!</description>
+        <item>
+            <title>Contact</title>
+            <link>https://shoomyx.github.io/ronin-blades/contact.html</link>
+            <description>New reviews</description>
+        </item>
+    </channel>
+</rss>
