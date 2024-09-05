@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://shoomyx.github.io/ronin-blades/</loc>
+        <lastmod>2024-8-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://shoomyx.github.io/ronin-blades/contact.html</loc>
+        <lastmod>2024-8-7</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://shoomyx.github.io/ronin-blades/about.html</loc>
+        <lastmod>2024-7-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://shoomyx.github.io/ronin-blades/author.html</loc>
+        <lastmod>2024-7-14</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.1</priority>
+    </url>
+</urlset>

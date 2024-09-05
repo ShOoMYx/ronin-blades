@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shoomyx.github.io/ronin-blades/sitemap.xml
